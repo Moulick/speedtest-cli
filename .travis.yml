@@ -12,6 +12,7 @@ addons:
       - python2.4
       - python2.5
       - python2.6
+      - python3.5
       - pypy
 
 env:
